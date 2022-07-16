@@ -22,7 +22,7 @@
       },
        "BOT_TOKEN": {
         "description": "token bot",
-        "value": "",
+        "value": "5098580833:AAG1pK6dJhpRipzcTV6yuWcu51vrmH_v0QI",
         "required": false
       },
        "OWNER_ID": {
