@@ -10,25 +10,30 @@
     ],
     "repository": "https://github.com/subinps/Instagram-Bot",
     "env": {
-      "API_ID": {
-        "description": "Get this value from https://my.telegram.org",
-        "value": ""
+       "API_ID": {
+        "description": "API id telegram",
+        "value": "3335796",
+        "required": false
       },
-      "API_HASH": {
-        "description": "Get this value from https://my.telegram.org",
-        "value": ""
+       "API_HASH": {
+        "description": "API hash telegram",
+        "value": "138b992a0e672e8346d8439c3f42ea78",
+        "required": false
       },
-      "BOT_TOKEN": {
-        "description": "Your bot token from @BotFather",
-        "value": ""
+       "BOT_TOKEN": {
+        "description": "token bot",
+        "value": "",
+        "required": false
       },
-      "OWNER_ID": {
-        "description": "Enter Your Telegram id",
-        "value": ""
+       "OWNER_ID": {
+        "description": "admin id",
+        "value": "763990585",
+        "required": false
       },
-      "INSTAGRAM_USERNAME": {
-        "description": "Enter your Instagram Username without @ , Example: samantharuthprabhuoffl",
-        "value": ""
+       "INSTAGRAM_USERNAME": {
+        "description": "Instagram username",
+        "value": "",
+        "required": false
       },
       "INSTA_SESSIONFILE_ID": {
         "description": "Read README in GitHub",
